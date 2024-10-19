@@ -2,6 +2,8 @@
 
 Welcome to **ElectroMart**, an eCommerce website designed to provide users with a seamless shopping experience for electronic products. This project is built with **Next.js** for the frontend, **Sanity** as the headless CMS for the backend, and **Stripe** for payment integration.
 
+**Click here to see the live project**: [**Deployed Project Link**](https://ecommerce-sanity-nbl6-4nlt5wwmk-ekansh3503s-projects.vercel.app/)
+
 ## Features
 
 - **Product Catalog**: Browse and search for a wide variety of electronic products.
